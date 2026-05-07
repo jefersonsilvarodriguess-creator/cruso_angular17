@@ -1,0 +1,6 @@
+/*** configuração para o rodapé ficar fixo no final da página **/
+footer{
+  position: relative;
+  margin-top: auto;
+  bottom:0
+}
